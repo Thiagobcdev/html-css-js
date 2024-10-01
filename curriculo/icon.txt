@@ -1,0 +1,55 @@
+<script src="https://kit.fontawesome.com/237c36950f.js" crossorigin="anonymous"></script>
+
+ICONES USER
+
+user: <i class="fa-solid fa-user"></i>
+users: <i class="fa-solid fa-users"></i>
+user plus: <i class="fa-solid fa-user-plus"></i>
+user tie: <i class="fa-solid fa-user-tie"></i>
+user x: <i class="fa-solid fa-user-xmark"></i>
+user edit: <i class="fa-solid fa-user-pen"></i>
+user check: <i class="fa-solid fa-user-check"></i>
+
+ICONES email
+email: <i class="fa-solid fa-envelope"></i>
+email: <i class="fa-regular fa-envelope"></i>
+
+ICONES CALENDARIO
+calendario: <i class="fa-solid fa-calendar-days"></i>
+calendario: <i class="fa-regular fa-calendar-days"></i>
+
+ICONE password
+password: <i class="fa-solid fa-lock"></i>
+password: <i class="fa-solid fa-key"></i>
+
+ICONES HOUSE
+
+house: <i class="fa-solid fa-house"></i>
+
+ICONE LUPA
+
+search: <i class="fa-solid fa-magnifying-glass"></i>
+
+ICONES REDE SOCIAIS
+
+facebook: <i class="fa-brands fa-facebook"></i>
+facebook f : <i class="fa-brands fa-facebook-f"></i>
+whatapp: <i class="fa-brands fa-whatsapp"></i>
+whatapp: <i class="fa-brands fa-square-whatsapp"></i>
+instagram: <i class="fa-brands fa-instagram"></i>
+instagram: <i class="fa-brands fa-square-instagram"></i>
+instrgram #: <i class="fa-solid fa-hashtag"></i>
+telegram: <i class="fa-brands fa-telegram"></i>
+discord: <i class="fa-brands fa-discord"></i>
+linkedin: <i class="fa-brands fa-linkedin"></i>
+linkedin: <i class="fa-brands fa-linkedin-in"></i>
+git: <i class="fa-brands fa-git"></i>
+github: <i class="fa-brands fa-github"></i>
+
+ICONES Login
+
+signin: <i class="fa-solid fa-right-to-bracket"></i>
+signin: <i class="fa-solid fa-arrow-right-to-bracket"></i>
+
+signout: <i class="fa-solid fa-right-from-bracket"></i>
+signout: <i class="fa-solid fa-arrow-right-from-bracket"></i>
